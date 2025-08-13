@@ -5,6 +5,8 @@ but can be used on any [azerothcore-wotlk](https://github.com/azerothcore/azerot
 
 This module gives all newly-created players with the ability to use wands a custom starter wand.
 
+![Starter wand tooltip](./wand_tooltip.png)
+
 ## Licence
 
 Given the terms of AzerothCore's APGL licence, this module is unfortunately obligated to adopt the same. As such, this
