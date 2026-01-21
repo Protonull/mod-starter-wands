@@ -2,7 +2,7 @@
 #include "Player.h"
 
 namespace {
-    constexpr uint32 WAND_ITEM_ID = 99760;
+    constexpr uint32 WAND_ITEM_ID = 5235;
 
     class GivePlayerWandOnCreateScript final : public PlayerScript {
         public:

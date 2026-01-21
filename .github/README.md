@@ -6,6 +6,10 @@ This module gives all newly-created players with the ability to use wands a cust
 
 ![Starter wand tooltip](./wand_tooltip.png)
 
+## Usage
+
+Players may need to delete their item cache for the wand to become usable.
+
 ## Licence
 
 Given the terms of AzerothCore's APGL licence, this module is unfortunately obligated to adopt the same. As such, this project is likewise licensed under APGL.
