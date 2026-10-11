@@ -4,7 +4,7 @@
 
 This module gives all newly-created players with the ability to use wands a modified [Alchemist's Wand](https://www.wowhead.com/wotlk/item=5235/alchemists-wand). As such, players may need to delete their item cache for the wand to work as intended.
 
-![Starter wand tooltip](./assets/wand_tooltip.png)
+![Starter wand tooltip](assets/wand_tooltip.png)
 
 ## Advisory
 
